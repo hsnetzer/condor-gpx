@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.71571353" maxlon="-118.75703453"/>
+<bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.81278814" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-17T17:56:30.105Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T22:32:30.240Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.52750455" lon="-119.18082547">
 </active_point>
 </extensions>
@@ -1027,6 +1027,53 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-17T16:30:35.843Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WhiteacrePeak</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.52766772" lon="-119.18093220">
+<time>2018-03-21T21:42:49.491Z</time>
+<name>RoseValleyFalls</name>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T21:44:56.345Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RoseValleyFalls</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.53169111" lon="-119.18282181">
+<time>2018-03-21T21:45:09.044Z</time>
+<name>RoseValleyFallsTH</name>
+<sym>Trail Head</sym>
+<type>Trail Head</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RoseValleyFallsTH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.53100102" lon="-119.18252171">
+<time>2018-03-21T21:47:46.567Z</time>
+<name>Rose5</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T21:48:12.798Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Rose5</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.81278814" lon="-119.14544037">
+<ele>2691.689</ele>
+<time>2018-03-13T15:43:15.836Z</time>
+<name>MtPinos</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MtPinos</label_text>
 </label>
 </extensions>
 </wpt>
@@ -59332,6 +59379,187 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 </trkpt>
 <trkpt lat="34.50536297" lon="-119.10286036">
 <ele>1843.505</ele>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>ROSE</name>
+<desc>good,s</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T21:47:44.571Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Rose Valley Falls Trail</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="34.53169000" lon="-119.18282047">
+<ele>1039.837</ele>
+</trkpt>
+<trkpt lat="34.53158789" lon="-119.18280974">
+<ele>1040.595</ele>
+</trkpt>
+<trkpt lat="34.53148578" lon="-119.18276683">
+<ele>1040.800</ele>
+</trkpt>
+<trkpt lat="34.53140143" lon="-119.18274537">
+<ele>1040.957</ele>
+</trkpt>
+<trkpt lat="34.53130820" lon="-119.18272391">
+<ele>1041.091</ele>
+</trkpt>
+<trkpt lat="34.53122829" lon="-119.18269173">
+<ele>1040.947</ele>
+</trkpt>
+<trkpt lat="34.53114838" lon="-119.18264881">
+<ele>1040.576</ele>
+</trkpt>
+<trkpt lat="34.53109954" lon="-119.18261126">
+<ele>1040.410</ele>
+</trkpt>
+<trkpt lat="34.53099854" lon="-119.18252006">
+<ele>1040.451</ele>
+</trkpt>
+<trkpt lat="34.53093195" lon="-119.18247178">
+<ele>1040.584</ele>
+</trkpt>
+<trkpt lat="34.53087757" lon="-119.18243424">
+<ele>1041.031</ele>
+</trkpt>
+<trkpt lat="34.53083761" lon="-119.18238059">
+<ele>1041.256</ele>
+</trkpt>
+<trkpt lat="34.53078878" lon="-119.18230013">
+<ele>1041.776</ele>
+</trkpt>
+<trkpt lat="34.53073106" lon="-119.18224112">
+<ele>1042.285</ele>
+</trkpt>
+<trkpt lat="34.53063783" lon="-119.18220357">
+<ele>1043.464</ele>
+</trkpt>
+<trkpt lat="34.53058456" lon="-119.18218747">
+<ele>1044.253</ele>
+</trkpt>
+<trkpt lat="34.53047357" lon="-119.18217138">
+<ele>1045.846</ele>
+</trkpt>
+<trkpt lat="34.53037590" lon="-119.18214992">
+<ele>1047.527</ele>
+</trkpt>
+<trkpt lat="34.53029599" lon="-119.18211237">
+<ele>1049.109</ele>
+</trkpt>
+<trkpt lat="34.53023383" lon="-119.18208555">
+<ele>1050.308</ele>
+</trkpt>
+<trkpt lat="34.53014504" lon="-119.18206946">
+<ele>1052.258</ele>
+</trkpt>
+<trkpt lat="34.53008289" lon="-119.18205336">
+<ele>1055.201</ele>
+</trkpt>
+<trkpt lat="34.53001186" lon="-119.18200508">
+<ele>1057.980</ele>
+</trkpt>
+<trkpt lat="34.52995414" lon="-119.18192462">
+<ele>1059.001</ele>
+</trkpt>
+<trkpt lat="34.52990531" lon="-119.18182269">
+<ele>1058.714</ele>
+</trkpt>
+<trkpt lat="34.52986979" lon="-119.18172613">
+<ele>1056.887</ele>
+</trkpt>
+<trkpt lat="34.52982095" lon="-119.18165103">
+<ele>1056.766</ele>
+</trkpt>
+<trkpt lat="34.52975436" lon="-119.18157056">
+<ele>1057.980</ele>
+</trkpt>
+<trkpt lat="34.52969221" lon="-119.18150083">
+<ele>1059.808</ele>
+</trkpt>
+<trkpt lat="34.52961229" lon="-119.18143645">
+<ele>1061.924</ele>
+</trkpt>
+<trkpt lat="34.52952350" lon="-119.18138817">
+<ele>1062.598</ele>
+</trkpt>
+<trkpt lat="34.52944359" lon="-119.18133989">
+<ele>1062.489</ele>
+</trkpt>
+<trkpt lat="34.52937255" lon="-119.18131844">
+<ele>1063.451</ele>
+</trkpt>
+<trkpt lat="34.52927932" lon="-119.18133989">
+<ele>1066.864</ele>
+</trkpt>
+<trkpt lat="34.52920385" lon="-119.18135599">
+<ele>1068.878</ele>
+</trkpt>
+<trkpt lat="34.52910174" lon="-119.18137208">
+<ele>1071.383</ele>
+</trkpt>
+<trkpt lat="34.52904402" lon="-119.18137208">
+<ele>1072.314</ele>
+</trkpt>
+<trkpt lat="34.52896411" lon="-119.18136672">
+<ele>1073.945</ele>
+</trkpt>
+<trkpt lat="34.52886644" lon="-119.18134526">
+<ele>1075.522</ele>
+</trkpt>
+<trkpt lat="34.52878652" lon="-119.18129698">
+<ele>1075.768</ele>
+</trkpt>
+<trkpt lat="34.52871549" lon="-119.18123797">
+<ele>1075.482</ele>
+</trkpt>
+<trkpt lat="34.52866221" lon="-119.18122188">
+<ele>1076.144</ele>
+</trkpt>
+<trkpt lat="34.52858674" lon="-119.18120578">
+<ele>1077.317</ele>
+</trkpt>
+<trkpt lat="34.52849351" lon="-119.18119505">
+<ele>1079.125</ele>
+</trkpt>
+<trkpt lat="34.52842247" lon="-119.18116823">
+<ele>1079.603</ele>
+</trkpt>
+<trkpt lat="34.52835144" lon="-119.18113605">
+<ele>1079.877</ele>
+</trkpt>
+<trkpt lat="34.52827596" lon="-119.18107167">
+<ele>1078.839</ele>
+</trkpt>
+<trkpt lat="34.52820049" lon="-119.18104485">
+<ele>1079.608</ele>
+</trkpt>
+<trkpt lat="34.52812057" lon="-119.18100730">
+<ele>1080.326</ele>
+</trkpt>
+<trkpt lat="34.52803178" lon="-119.18098584">
+<ele>1082.008</ele>
+</trkpt>
+<trkpt lat="34.52795630" lon="-119.18095902">
+<ele>1083.215</ele>
+</trkpt>
+<trkpt lat="34.52784087" lon="-119.18094293">
+<ele>1086.084</ele>
+</trkpt>
+<trkpt lat="34.52776540" lon="-119.18092683">
+<ele>1087.811</ele>
+</trkpt>
+<trkpt lat="34.52767216" lon="-119.18094293">
+<ele>1091.055</ele>
 </trkpt>
 </trkseg>
 </trk>
