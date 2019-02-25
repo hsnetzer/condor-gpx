@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-22T02:37:08.215Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:37:22.605Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78006102" lon="-119.89229710">
 </active_point>
 </extensions>
@@ -345,7 +345,9 @@
 <sym>Campground</sym>
 <type>Campground</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:37:22.605Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HiawathaCG</label_text>
 </label>
 </extensions>
 </wpt>
@@ -591,39 +593,6 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.75400557" lon="-119.47608805">
-<time>2018-03-13T15:29:16.043Z</time>
-<name>CuyamaPeak</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>CuyamaPeak</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.76628422" lon="-119.92307982">
-<time>2018-03-13T15:38:04.743Z</time>
-<name>Mazana966</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana966</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.75792151" lon="-119.80651370">
-<time>2018-03-13T15:38:37.113Z</time>
-<name>HurricaneDeckE</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HurricaneDeckE</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="34.90210591" lon="-119.85869875">
 <ele>1774.000</ele>
 <time>2018-03-13T15:40:20.155Z</time>
@@ -663,7 +632,21 @@
 </label>
 </extensions>
 </wpt>
+<wpt lat="34.80022157" lon="-119.91394252">
+<ele>1291.438</ele>
+<time>2018-03-22T01:53:08.070Z</time>
+<name>HurricaneDeck</name>
+<desc>Highest point on the Hurricane Deck massif.</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HurricaneDeck</label_text>
+</label>
+</extensions>
+</wpt>
 <wpt lat="34.70250806" lon="-119.84527162">
+<ele>1886.900</ele>
 <time>2018-03-17T15:04:24.887Z</time>
 <name>McKinleyMtn</name>
 <sym>Summit</sym>
@@ -674,30 +657,56 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.73543615" lon="-119.87437895">
-<time>2018-03-17T15:07:59.040Z</time>
-<name>MazanaCamp</name>
-<sym>Campground</sym>
-<type>Campsite</type>
+<wpt lat="34.75400557" lon="-119.47608805">
+<ele>1780.500</ele>
+<time>2018-03-13T15:29:16.043Z</time>
+<name>CuyamaPeak</name>
+<sym>Summit</sym>
+<type>Summit</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MazanaCamp</label_text>
+<label_text>CuyamaPeak</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.73825484" lon="-119.86657909">
-<time>2018-03-17T15:08:14.298Z</time>
-<name>MazanaNarrowsCamp</name>
-<sym>Campground</sym>
-<type>Campsite</type>
+<wpt lat="34.70358587" lon="-119.83611052">
+<ele>1758.500</ele>
+<time>2018-03-17T15:11:18.817Z</time>
+<name>FS8N08</name>
+<sym>Car</sym>
+<type>Car</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-22T01:31:04.913Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MazanaNarrowsCamp</label_text>
+<label_text>FS8N08</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.72594917" lon="-119.84628707">
+<ele>1187.000</ele>
+<time>2018-03-21T23:03:00.183Z</time>
+<name>BigConeSpruceCamp</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BigConeSpruceCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.77834698" lon="-119.86350090">
+<ele>1186.000</ele>
+<time>2018-03-22T01:41:26.147Z</time>
+<name>Hurricane~CondorE</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Hurricane~CondorE</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.75116467" lon="-119.82289127">
+<ele>1085.100</ele>
 <time>2018-03-17T15:08:41.975Z</time>
 <name>HappyHuntingGround</name>
 <sym>Campground</sym>
@@ -708,62 +717,164 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.70358587" lon="-119.83611052">
-<time>2018-03-17T15:11:18.817Z</time>
-<name>FS8N08</name>
-<sym>Car</sym>
-<type>Road</type>
+<wpt lat="34.75792151" lon="-119.80651370">
+<ele>972.100</ele>
+<time>2018-03-13T15:38:37.113Z</time>
+<name>HurricaneDeckE</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FS8N08</label_text>
+<label_text>HurricaneDeckE</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.80290579" lon="-119.98679124">
-<time>2018-03-21T22:45:51.862Z</time>
-<name>Manzana412</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
+<wpt lat="34.73825484" lon="-119.86657909">
+<ele>907.700</ele>
+<time>2018-03-17T15:08:14.298Z</time>
+<name>MazanaNarrowsCamp</name>
+<sym>Campground</sym>
+<type>Campground</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Manzana412</label_text>
+<label_text>MazanaNarrowsCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.73543615" lon="-119.87437895">
+<ele>848.700</ele>
+<time>2018-03-17T15:07:59.040Z</time>
+<name>MazanaCamp</name>
+<sym>Campground</sym>
+<type>Campground</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MazanaCamp</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.76628422" lon="-119.92307982">
+<ele>575.300</ele>
+<time>2018-03-13T15:38:04.743Z</time>
+<name>Mazana966</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Mazana966</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.76617443" lon="-119.92791169">
+<ele>569.500</ele>
+<time>2018-03-21T23:28:42.164Z</time>
+<name>Manzana944</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Manzana944</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.76699253" lon="-119.93050307">
+<ele>562.600</ele>
+<time>2018-03-21T23:24:02.135Z</time>
+<name>Manzana918</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Manzana918</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.80178795" lon="-119.98626821">
-<time>2018-03-21T22:46:35.995Z</time>
+<ele>438.400</ele>
+<time>2018-03-21T22:46:35.994Z</time>
 <name>Manzana420</name>
 <sym>Trail Head</sym>
-<type>Trail Junction</type>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Manzana420</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.82380998" lon="-119.99745972">
-<time>2018-03-21T22:56:57.571Z</time>
-<name>Mazana27</name>
-<sym>Water Source</sym>
-<type>Water</type>
+<wpt lat="34.80290579" lon="-119.98679124">
+<ele>430.800</ele>
+<time>2018-03-21T22:45:51.862Z</time>
+<name>Manzana412</name>
+<sym>Trail Head</sym>
+<type>Trailhead</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana27</label_text>
+<label_text>Manzana412</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.82284561" lon="-119.99923535">
-<time>2018-03-21T22:57:19.211Z</time>
-<name>Mazana43</name>
+<wpt lat="34.80224707" lon="-120.00514828">
+<ele>403.100</ele>
+<time>2018-03-21T23:02:03.513Z</time>
+<name>Mazana238</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Mazana238</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.81294849" lon="-120.00438988">
+<ele>393.200</ele>
+<time>2018-03-21T22:59:38.676Z</time>
+<name>Mazana151</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Mazana151</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.81447762" lon="-120.00126175">
+<ele>381.500</ele>
+<time>2018-03-21T22:58:43.821Z</time>
+<name>Mazana127</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana43</label_text>
+<label_text>Mazana127</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.81374762" lon="-120.00003867">
+<ele>371.000</ele>
+<time>2018-03-21T22:58:28.211Z</time>
+<name>Mazana118</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Mazana118</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.81949842" lon="-119.99931112">
+<ele>368.400</ele>
+<time>2018-03-21T23:00:52.035Z</time>
+<name>Mazana67</name>
+<sym>Car</sym>
+<type>Car</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Mazana67</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.81837527" lon="-119.99956392">
+<ele>368.200</ele>
 <time>2018-03-21T22:57:42.951Z</time>
 <name>Mazana75</name>
 <sym>Water Source</sym>
@@ -775,128 +886,38 @@
 </extensions>
 </wpt>
 <wpt lat="34.81740198" lon="-119.99970876">
+<ele>368.200</ele>
 <time>2018-03-21T22:57:55.571Z</time>
 <name>Mazana82</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T22:58:03.462Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Mazana82</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.81374762" lon="-120.00003867">
-<time>2018-03-21T22:58:28.211Z</time>
-<name>Mazana118</name>
+<wpt lat="34.82284561" lon="-119.99923535">
+<ele>368.100</ele>
+<time>2018-03-21T22:57:19.211Z</time>
+<name>Mazana43</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana118</label_text>
+<label_text>Mazana43</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.81447762" lon="-120.00126175">
-<time>2018-03-21T22:58:43.821Z</time>
-<name>Mazana127</name>
+<wpt lat="34.82380998" lon="-119.99745972">
+<ele>356.100</ele>
+<time>2018-03-21T22:56:57.571Z</time>
+<name>Mazana27</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana127</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.81294849" lon="-120.00438988">
-<time>2018-03-21T22:59:38.676Z</time>
-<name>Mazana151</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T23:01:31.425Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana151</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.81949842" lon="-119.99931112">
-<time>2018-03-21T23:00:52.035Z</time>
-<name>Mazana67</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana67</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.80224707" lon="-120.00514828">
-<time>2018-03-21T23:02:03.513Z</time>
-<name>Mazana238</name>
-<sym>Car</sym>
-<type>Road</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Mazana238</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.72594917" lon="-119.84628707">
-<time>2018-03-21T23:03:00.183Z</time>
-<name>BigConeSpruceCamp</name>
-<sym>Campground</sym>
-<type>Campsite</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BigConeSpruceCamp</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.76699253" lon="-119.93050307">
-<time>2018-03-21T23:24:02.135Z</time>
-<name>Manzana918</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T23:24:16.145Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Manzana918</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.76617443" lon="-119.92791169">
-<time>2018-03-21T23:28:42.164Z</time>
-<name>Manzana944</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Manzana944</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.77834698" lon="-119.86350090">
-<time>2018-03-22T01:41:26.147Z</time>
-<name>Hurricane~CondorE</name>
-<sym>Trail Head</sym>
-<type>Trail Junction</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>Hurricane~CondorE</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.80022157" lon="-119.91394252">
-<ele>1291.438</ele>
-<time>2018-03-22T01:53:08.070Z</time>
-<name>HurricaneDeck</name>
-<desc>Highest point on the Hurricane Deck massif.</desc>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HurricaneDeck</label_text>
+<label_text>Mazana27</label_text>
 </label>
 </extensions>
 </wpt>
