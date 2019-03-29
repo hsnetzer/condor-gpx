@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:54:10.790Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78006102" lon="-119.89229710">
 </active_point>
 </extensions>
@@ -684,8 +684,9 @@
 <time>2018-03-17T15:11:18.817Z</time>
 <name>FS8N08</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:54:10.790Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FS8N08</label_text>
 </label>
@@ -828,8 +829,9 @@
 <time>2018-03-21T23:02:03.513Z</time>
 <name>Mazana238</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:54:10.790Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Mazana238</label_text>
 </label>
@@ -840,8 +842,9 @@
 <time>2018-03-21T22:59:38.676Z</time>
 <name>Mazana151</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:54:10.790Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Mazana151</label_text>
 </label>
@@ -876,8 +879,9 @@
 <time>2018-03-21T23:00:52.035Z</time>
 <name>Mazana67</name>
 <sym>Car</sym>
-<type>Car</type>
+<type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:54:10.790Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Mazana67</label_text>
 </label>
