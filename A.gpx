@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.81278814" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T22:32:30.240Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.52750455" lon="-119.18082547">
 </active_point>
 </extensions>
@@ -14,8 +14,9 @@
 <name>PotholeTH</name>
 <desc>Pothole Trailhead, Piru Canyon Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PotholeTH</label_text>
 </label>
@@ -26,8 +27,9 @@
 <time>2016-11-30T20:50:41.719Z</time>
 <name>CondorTrail</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorTrail</label_text>
 </label>
@@ -39,8 +41,9 @@
 <name>SespeRiverJohnston</name>
 <desc>Sespe River Trail (Condor Trail) joins Johnson Ridge Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SespeRiverJohnston</label_text>
 </label>
@@ -52,8 +55,9 @@
 <name>SespeAlder</name>
 <desc>Sespe River Trail joins Alder Creek Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SespeAlder</label_text>
 </label>
@@ -65,9 +69,9 @@
 <name>AlderCondor</name>
 <desc>Alder Creek Trail joins Condor Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-07T18:26:32.359Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>AlderCondor</label_text>
 </label>
@@ -130,8 +134,9 @@
 <name>CONSycamoreCr</name>
 <desc>Unreliable Sycamore Creek crosses the Condor Trail (Sespe River Trail).</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CONSycamoreCr</label_text>
 </label>
@@ -158,9 +163,9 @@
 
 West to a parking lot and campground on Rose Valley Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-07T17:46:36.823Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PiedraBlancaNRT</label_text>
 </label>
@@ -364,9 +369,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>WilletSpur</name>
 <desc>W 0.6 miles to hot springs.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-07T17:52:18.609Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WilletSpur</label_text>
 </label>
@@ -390,8 +395,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>CondorChorroGrande</name>
 <desc>Condor Trail joins Chorro Grande Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorChorroGrande</label_text>
 </label>
@@ -444,9 +450,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>ReyesPeakTr</name>
 <desc>West 0.7 miles to summit of Reyes Peak.&lt;br /&gt;Condor Trail nobo begins following seasonally closed Reyes Peak Road/Pine Mtn Ridge Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-07T17:58:27.079Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ReyesPeakTr</label_text>
 </label>
@@ -472,9 +478,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>CondorRedReef</name>
 <desc>Red Reef Trail joins the Condor Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T17:54:20.942Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorRedReef</label_text>
 </label>
@@ -500,8 +506,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>HinesPeakTr</name>
 <desc>0.35 miles to Hines Peak.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HinesPeakTr</label_text>
 </label>
@@ -512,8 +519,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time>2016-12-02T18:04:14.917Z</time>
 <name>LadybugLoopS</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LadybugLoopS</label_text>
 </label>
@@ -524,8 +532,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time>2016-12-02T18:04:35.680Z</time>
 <name>LadybugLoopN</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LadybugLoopN</label_text>
 </label>
@@ -537,8 +546,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>RedReefSisar</name>
 <desc>Red Reef Trailhead on Sisar Cyn Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RedReefSisar</label_text>
 </label>
@@ -550,8 +560,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>NordhoffRedReef</name>
 <desc>Red Reef Trail joins Nordhoff Ridge Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>NordhoffRedReef</label_text>
 </label>
@@ -629,9 +640,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>Condor1~LionCyn</name>
 <desc>Lion Canyon Trail joins Condor I.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-07T18:06:24.043Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor1~LionCyn</label_text>
 </label>
@@ -876,8 +887,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time>2018-03-13T15:13:28.842Z</time>
 <name>HornCynTH</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HornCynTH</label_text>
 </label>
@@ -899,9 +911,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <name>GridleyTH</name>
 <desc>Gridley Road.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T16:31:40.089Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GridleyTH</label_text>
 </label>
@@ -944,8 +956,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time>2018-03-17T14:45:44.695Z</time>
 <name>Condor3</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor3</label_text>
 </label>
@@ -1046,8 +1059,9 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time>2018-03-21T21:45:09.044Z</time>
 <name>RoseValleyFallsTH</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RoseValleyFallsTH</label_text>
 </label>

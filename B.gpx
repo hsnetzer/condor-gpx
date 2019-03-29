@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-25T22:37:22.605Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78006102" lon="-119.89229710">
 </active_point>
 </extensions>
@@ -110,9 +110,9 @@
 <time>2016-12-01T03:16:09.312Z</time>
 <name>HurricaneDeckW</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T15:38:54.302Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HurricaneDeckW</label_text>
 </label>
@@ -124,8 +124,9 @@
 <name>HorseCynTr</name>
 <desc>Condor Trail nobo joins Horse Canyon Trail at the mouth of Horse Cyn.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HorseCynTr</label_text>
 </label>
@@ -137,8 +138,9 @@
 <name>KerryCynIndians</name>
 <desc>N terminus of Kerry Cyn Trail; Indians Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>KerryCynIndians</label_text>
 </label>
@@ -150,8 +152,9 @@
 <name>WillowSpringTrS</name>
 <desc>Condor Trail nobo leaves dirt road to begin trek toward Willow Spring.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WillowSpringTrS</label_text>
 </label>
@@ -163,8 +166,9 @@
 <name>TempWaypoint</name>
 <desc>Good data from here to the north trailhead on hwy 166.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TempWaypoint</label_text>
 </label>
@@ -176,9 +180,9 @@
 <name>CondorMazanaN</name>
 <desc>Mazana Trail joins the Condor Trail (north junction).</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-17T15:23:23.375Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorMazanaN</label_text>
 </label>
@@ -269,8 +273,9 @@
 <name>SouthFork</name>
 <desc>Campground. Water available in Sisquoc River.</desc>
 <sym>City Hall</sym>
-<type>Guard Station</type>
+<type>Ranger Station</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:59.283Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SouthFork</label_text>
 </label>
@@ -394,8 +399,9 @@
 <name>TintaFS8N07</name>
 <desc>Tinta Trail (Condor Trail) joins Forest Route 8N07/Brubaker Cyn Rd.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TintaFS8N07</label_text>
 </label>
@@ -407,8 +413,9 @@
 <name>TintaFR7N04D</name>
 <desc>Forest Route 7N04D joins Condor Trail nobo (Tinta Trail). The Forest Route goes east to climb Cuyama Peak.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TintaFR7N04D</label_text>
 </label>
@@ -420,8 +427,9 @@
 <name>9N11HappyHollow</name>
 <desc>Trail head at Happy Hollow/Santa Cruz Trail.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>9N11HappyHollow</label_text>
 </label>
@@ -433,8 +441,9 @@
 <name>IndianCreekTrail</name>
 <desc>Bluff Campground, Indian Creek Trailhead.</desc>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>IndianCreekTrail</label_text>
 </label>
@@ -445,8 +454,9 @@
 <time>2016-12-02T00:36:33.092Z</time>
 <name>BigPineTH</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:47:18.737Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BigPineTH</label_text>
 </label>
