@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.81278814" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:46:26.710Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:45:42.115Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.52750455" lon="-119.18082547">
 </active_point>
 </extensions>
@@ -239,9 +239,10 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <ele>1092.600</ele>
 <time>2016-11-30T22:58:53.355Z</time>
 <name>Ozena</name>
-<sym>City Hall</sym>
-<type>Fire Station</type>
+<sym>Building</sym>
+<type>Building</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:45:42.115Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Ozena</label_text>
 </label>
