@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.81278814" maxlon="-118.75703453"/>
+<bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.71571760" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-30T14:45:42.115Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.52750455" lon="-119.18082547">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:41:46.611Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.69536564" lon="-119.39786987">
 </active_point>
 </extensions>
 </metadata>
@@ -171,7 +171,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.58516275" lon="-119.16582015">
+<wpt lat="34.58522043" lon="-119.16585770">
 <ele>1078.700</ele>
 <time>2016-11-30T21:42:47.667Z</time>
 <name>PiedraBlancaCamp</name>
@@ -179,6 +179,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:37:45.435Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>PiedraBlancaCamp</label_text>
 </label>
@@ -287,7 +288,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.69542933" lon="-119.39780818">
+<wpt lat="34.69537838" lon="-119.39785914">
 <ele>1065.900</ele>
 <time>2016-11-30T23:15:55.976Z</time>
 <name>FS7N04ACondorS</name>
@@ -295,6 +296,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:38:19.162Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FS7N04ACondorS</label_text>
 </label>
@@ -303,38 +305,38 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <wpt lat="34.70346948" lon="-119.39115496">
 <ele>1049.400</ele>
 <time>2016-11-30T23:18:21.595Z</time>
-<name>FS7N04ARNCr3</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:40:54.335Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FS7N04ARNCr3</label_text>
+<label_text>RanchoNuevoCreek1049</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.69859609" lon="-119.39470218">
 <ele>1056.200</ele>
 <time>2016-11-30T23:18:59.881Z</time>
-<name>FS7N04ARNCr1</name>
 <desc>Forest Route 7N04A crosses Rancho Nuevo Creek.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:40:06.194Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FS7N04ARNCr1</label_text>
+<label_text>RanchoNuevoCreek1056</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.69948717" lon="-119.39385259">
 <ele>1055.100</ele>
 <time>2016-11-30T23:20:02.753Z</time>
-<name>FS7N04ARNCr2</name>
 <desc>Forest Route 7N04A crosses Rancho Nuevo Creek.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:40:39.952Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>FS7N04ARNCr2</label_text>
+<label_text>RanchoNuevoCreek1055</label_text>
 </label>
 </extensions>
 </wpt>
@@ -351,7 +353,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.71564783" lon="-119.41577764">
+<wpt lat="34.71571760" lon="-119.41576289">
 <ele>1106.900</ele>
 <time>2016-11-30T23:24:38.216Z</time>
 <name>Tinta</name>
@@ -359,6 +361,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <sym>Campground</sym>
 <type>Campground</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:41:46.611Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Tinta</label_text>
 </label>
@@ -1080,24 +1083,12 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.81278814" lon="-119.14544037">
-<ele>2691.689</ele>
-<time>2018-03-13T15:43:15.836Z</time>
-<name>MtPinos</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>MtPinos</label_text>
-</label>
-</extensions>
-</wpt>
 <trk>
 <name>CONDOR</name>
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-17T17:11:58.592Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:41:23.351Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor Trail</label_text>
 </label>
@@ -29703,16 +29694,16 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <trkpt lat="34.70229948" lon="-119.39185823">
 <ele>1053.546</ele>
 </trkpt>
-<trkpt lat="34.70306938" lon="-119.39132305">
+<trkpt lat="34.70308932" lon="-119.39133914">
 <ele>1053.080</ele>
 </trkpt>
-<trkpt lat="34.70328415" lon="-119.39117864">
+<trkpt lat="34.70329744" lon="-119.39111963">
 <ele>1052.505</ele>
 </trkpt>
-<trkpt lat="34.70339315" lon="-119.39113750">
+<trkpt lat="34.70347068" lon="-119.39115359">
 <ele>1050.975</ele>
 </trkpt>
-<trkpt lat="34.70355452" lon="-119.39117601">
+<trkpt lat="34.70362097" lon="-119.39118942">
 <ele>1049.462</ele>
 </trkpt>
 <trkpt lat="34.70373671" lon="-119.39116284">
