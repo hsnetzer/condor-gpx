@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.71571760" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T22:14:46.219Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:44:24.502Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.69536564" lon="-119.39786987">
 </active_point>
 </extensions>
@@ -115,7 +115,7 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.55962324" lon="-118.90761857">
+<wpt lat="34.55967206" lon="-118.90752201">
 <ele>1065.700</ele>
 <time>2016-11-30T21:20:28.897Z</time>
 <name>CowSpring</name>
@@ -123,6 +123,7 @@
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:44:05.017Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CowSpring</label_text>
 </label>
@@ -1075,7 +1076,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:41:23.351Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:44:24.502Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor Trail</label_text>
 </label>
@@ -29672,7 +29673,7 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <trkpt lat="34.69863326" lon="-119.39466585">
 <ele>1056.196</ele>
 </trkpt>
-<trkpt lat="34.69955903" lon="-119.39378325">
+<trkpt lat="34.69948593" lon="-119.39384762">
 <ele>1054.833</ele>
 </trkpt>
 <trkpt lat="34.70013564" lon="-119.39323700">
