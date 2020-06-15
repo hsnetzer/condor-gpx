@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.71571760" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:44:24.502Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:53:02.705Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.69536564" lon="-119.39786987">
 </active_point>
 </extensions>
@@ -77,7 +77,7 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.54983526" lon="-118.80646459">
+<wpt lat="34.54974649" lon="-118.80640290">
 <ele>468.300</ele>
 <time>2016-11-30T21:09:15.505Z</time>
 <name>LogCabin</name>
@@ -85,6 +85,7 @@
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T01:53:02.705Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LogCabin</label_text>
 </label>
