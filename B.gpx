@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T02:59:59.957Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:57.575Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78006102" lon="-119.89229710">
 </active_point>
 </extensions>
@@ -84,10 +84,11 @@
 <ele>504.700</ele>
 <time>2016-12-01T03:32:25.720Z</time>
 <name>KerryLaBreaN</name>
-<desc>N Fork LaBrea Creek &amp; Kerry Cyn. Condor Trail nobo joins Kerry Canyon Trail.&lt;br /&gt;W 1 mile to Lazy Campground.</desc>
+<desc>N Fork LaBrea Creek &amp; Kerry Cyn. Condor Trail joins Kerry Canyon Trail. West 1 mile to Lazy Campground.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T18:57:26.549Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>KerryLaBreaN</label_text>
 </label>
@@ -458,6 +459,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:41.850Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FR8N19</label_text>
 </label>
@@ -467,10 +469,11 @@
 <ele>1019.400</ele>
 <time>2016-12-01T01:59:55.515Z</time>
 <name>CondorFR9N11-II</name>
-<desc>Condor Trail nobo departs Forest Route 9N11 to begin following the Santa Barbary Cyn Trail.&lt;br /&gt;Willow Campground.</desc>
+<desc>Condor Trail departs Forest Route 9N11 and joins Santa Barbara Cyn Trail. Willow Campground.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:57.575Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorFR9N11-II</label_text>
 </label>
@@ -493,10 +496,11 @@
 <ele>1730.100</ele>
 <time>2016-12-01T02:19:34.427Z</time>
 <name>CondorFR9N11-IV</name>
-<desc>Condor nobo departs Forest Route 9N11.&lt;br /&gt;West 200 yards to Alamar Guard Station (no water).</desc>
+<desc>Condor Trail departs Forest Route 9N11. West 200 yards to Alamar Guard Station (no water).</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T18:57:51.993Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CondorFR9N11-IV</label_text>
 </label>
@@ -9643,7 +9647,7 @@
 <desc>goog,sw</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T15:49:59.536Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:17.077Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Forest Route 9N11</label_text>
@@ -23328,7 +23332,7 @@
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-24T16:08:03.932Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T18:59:42.788Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor Trail</label_text>
 </label>
