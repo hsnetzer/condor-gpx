@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T01:55:05.061Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:04:56.137Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78550087" lon="-119.57176805">
 </active_point>
 </extensions>
@@ -9647,7 +9647,7 @@
 <desc>goog,sw</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:17.077Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:04:56.137Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Forest Route 9N11</label_text>
@@ -10803,7 +10803,7 @@
 <trkpt lat="34.78565000" lon="-119.57183000">
 <ele>993.530</ele>
 </trkpt>
-<trkpt lat="34.78540000" lon="-119.57177000">
+<trkpt lat="34.78549626" lon="-119.57178341">
 <ele>991.081</ele>
 </trkpt>
 <trkpt lat="34.78504099" lon="-119.57175111">
@@ -13365,7 +13365,7 @@
 <trkpt lat="34.70567000" lon="-119.62625856">
 <ele>1735.555</ele>
 </trkpt>
-<trkpt lat="34.70560000" lon="-119.62655000">
+<trkpt lat="34.70569525" lon="-119.62653525">
 <ele>1729.874</ele>
 </trkpt>
 <trkpt lat="34.70528384" lon="-119.62675776">
@@ -17605,7 +17605,7 @@
 <desc>goog,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-13T15:31:58.270Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:04:10.616Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Forest Route 8N19</label_text>
@@ -17618,7 +17618,7 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.78550837" lon="-119.57171826">
+<trkpt lat="34.78549731" lon="-119.57178096">
 <ele>990.823</ele>
 </trkpt>
 <trkpt lat="34.78562420" lon="-119.57143187">
@@ -23332,7 +23332,7 @@
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T01:55:05.061Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T19:03:48.651Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor Trail</label_text>
 </label>
@@ -24823,7 +24823,7 @@
 <trkpt lat="34.74900755" lon="-119.49755430">
 <ele>1401.740</ele>
 </trkpt>
-<trkpt lat="34.74912416" lon="-119.49759496">
+<trkpt lat="34.74923264" lon="-119.49757686">
 <ele>1402.764</ele>
 </trkpt>
 <trkpt lat="34.74942762" lon="-119.49752377">
