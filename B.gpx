@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="34.56876606" minlon="-120.17181838" maxlat="35.08474289" maxlon="-119.41603000"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T19:00:57.575Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78006102" lon="-119.89229710">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T01:55:05.061Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78550087" lon="-119.57176805">
 </active_point>
 </extensions>
 </metadata>
@@ -23332,7 +23332,7 @@
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-01T18:59:42.788Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-02T01:55:05.061Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Condor Trail</label_text>
 </label>
@@ -25303,7 +25303,7 @@
 <trkpt lat="34.78603956" lon="-119.57068209">
 <ele>986.148</ele>
 </trkpt>
-<trkpt lat="34.78541350" lon="-119.57178742">
+<trkpt lat="34.78549316" lon="-119.57177803">
 <ele>991.208</ele>
 </trkpt>
 <trkpt lat="34.78513266" lon="-119.57176706">
