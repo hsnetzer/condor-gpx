@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.29 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
 <desc>Lake Piru to Tinta Campground</desc>
 <copyright author="Harry Netzer">
@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="34.43634000" minlon="-119.42195000" maxlat="34.71571760" maxlon="-118.75703453"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T23:01:57.965Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-18T17:00:59.884Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.69536564" lon="-119.39786987">
 </active_point>
 </extensions>
@@ -1075,6 +1075,18 @@ West to a parking lot and campground on Rose Valley Road.</desc>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-21T21:48:12.798Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Rose5</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.49683575" lon="-119.05519377">
+<ele>1316.000</ele>
+<time>2021-01-18T16:58:43.336Z</time>
+<sym>Campground</sym>
+<type>Campsite</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2021-01-18T17:00:59.884Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>LastChance</label_text>
 </label>
 </extensions>
 </wpt>
